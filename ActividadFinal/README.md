@@ -47,7 +47,7 @@ Attendants have three actions that help them fulfill their goals:
 
 ## Demo
 
-![Demo](vid/demo.mp4)
+https://user-images.githubusercontent.com/115027100/214361282-5c17ca03-a2ac-4664-86ba-391ac9b404d0.mp4
 
 ## Asset References
 
